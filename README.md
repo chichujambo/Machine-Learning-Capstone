@@ -1,2 +1,2 @@
 # Machine-Learning-Capstone
-Coursera Machina Learning course Capstone Project
+Coursera Machine Learning course Capstone Project
